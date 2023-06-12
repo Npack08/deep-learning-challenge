@@ -1,7 +1,7 @@
 # deep-learning-challenge
 
 Report:
-The purpose of this analysis was to use a machine learning model to predict  whether applicants will be sucessful in obtaining funding. A CSV containing over 34,000 organizations was used and the dataset contained column data such as:
+The purpose of this analysis was to use a machine learning model to predict whether applicants will be sucessful in obtaining funding. A CSV containing over 34,000 organizations was used and the dataset contained column data such as:
 EIN and NAME
 APPLICATION_TYPE
 AFFILIATION
@@ -36,3 +36,4 @@ My attempt to increase the accuracy to 75% was to increase the amount of Neurons
 I was unsuccessful at achieving a 75% binary_accuracy.
 
 Summary:
+It was more challenging than anitcipated to reach the targeted accuracy. Increasing the amount of neurons did slightly raise the accuracy target, but not a significant increase. Overall, I would recommend that I work towards improving the accuracy of this model as I did not reach the goal of 75%. Perhaps try a diffent combination of adding layers and trying different methods of reworking the data. 
